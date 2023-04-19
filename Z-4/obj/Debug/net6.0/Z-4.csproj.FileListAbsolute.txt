@@ -3,3 +3,13 @@ D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\Z-4.GeneratedMSBuildEditorC
 D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\Z-4.AssemblyInfoInputs.cache
 D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\Z-4.AssemblyInfo.cs
 D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\Z-4.csproj.CoreCompileInputs.cache
+D:\Обучение\DZ-07.04.23\Z-4\bin\Debug\net6.0\Z-4.exe
+D:\Обучение\DZ-07.04.23\Z-4\bin\Debug\net6.0\Z-4.deps.json
+D:\Обучение\DZ-07.04.23\Z-4\bin\Debug\net6.0\Z-4.runtimeconfig.json
+D:\Обучение\DZ-07.04.23\Z-4\bin\Debug\net6.0\Z-4.dll
+D:\Обучение\DZ-07.04.23\Z-4\bin\Debug\net6.0\Z-4.pdb
+D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\Z-4.dll
+D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\refint\Z-4.dll
+D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\Z-4.pdb
+D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\Z-4.genruntimeconfig.cache
+D:\Обучение\DZ-07.04.23\Z-4\obj\Debug\net6.0\ref\Z-4.dll

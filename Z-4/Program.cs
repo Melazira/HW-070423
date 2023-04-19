@@ -1,12 +1,12 @@
-﻿System.Console.Writeline("Введите первое число ");
+﻿System.Console.WriteLine("Введите первое число ");
 string s = Console.ReadLine();
 int i = int.Parse(s);
 
-System.Console.Writeline("Введите второе число ");
+System.Console.WriteLine("Введите второе число ");
 string t = Console.ReadLine();
 int j = int.Parse(t);
 
-System.Console.Writeline("Введите третье число ");
+System.Console.WriteLine("Введите третье число ");
 string e = Console.ReadLine();
 int k = int.Parse(e);
 
@@ -27,4 +27,4 @@ if (max < k)
     max = k;
 }
 
-System.Console.Writeline($"Максимальное число : {max}");
+System.Console.WriteLine($"Максимальное число : {max}");
